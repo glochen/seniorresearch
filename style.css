@@ -1,0 +1,105 @@
+#header{
+		background-color: #DF0101;
+		color :gold;
+		vertical-align: top;
+		margin-top: -22px;
+		font-size: 50px;
+		color: #FFFFFF;
+		text-shadow: 2px 2px 5px black;
+		font-family: "Arial";
+		border-radius: 20px;
+}
+h2{
+		font-size:110%;
+}
+h1{
+		-webkit-text-stroke-width: 1px;
+   		-webkit-text-stroke-color: black;
+}
+body{
+		background-color: #190707;
+		padding:0; 
+		margin:0;
+		color: #FFFFFF: 
+}
+
+div{
+		 text-align:center;
+		 vertical-align: center;
+		color: #FFFFFF: 
+}
+img{
+		text-align: center;
+}
+.info{
+		display: inline;	
+		font-size: 250%;
+		text-align: center;
+	
+}
+input{
+		max-width: 50x;
+  		width: 80%;
+  		min-width: 50px;
+  		font-size: 250%;
+  		border: 2px solid;
+   		border-radius: 10px;
+   		text-align:center;
+}
+::-webkit-input-placeholder 
+{
+	   text-align: center;
+}
+#log{
+	font-size: 50px;
+	font-family: "Verdana";
+	color: #FFFFFF;
+}
+#product{
+	text-align:center;
+	vertical-align: center;
+	margin-left: 900px;
+	color: #FFFFFF;
+	font-size: 30px;
+}
+#totalTime{
+	color: #FFFFFF;
+}
+.button {
+  display: inline-block;
+  border-radius: 20px;
+  background-color: #DF0101;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
