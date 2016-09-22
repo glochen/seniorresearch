@@ -1,16 +1,13 @@
 #header{
-		background-color: #DF0101;
+		background-color: #98FB98;
 		color :gold;
 		vertical-align: top;
 		margin-top: -22px;
 		font-size: 50px;
-		color: #FFFFFF;
+		color: 	#8B4513;
 		text-shadow: 2px 2px 5px black;
 		font-family: "Arial";
 		border-radius: 20px;
-}
-h2{
-		font-size:110%;
 }
 body{
 		background-color: #B0E0E6;
@@ -18,7 +15,6 @@ body{
 		margin:0;
 		color: #FFFFFF: 
 }
-
 div{
 		 text-align:center;
 		 vertical-align: center;
