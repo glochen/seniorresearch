@@ -12,12 +12,8 @@
 h2{
 		font-size:110%;
 }
-h1{
-		-webkit-text-stroke-width: 1px;
-   		-webkit-text-stroke-color: black;
-}
 body{
-		background-color: #190707;
+		background-color: #B0E0E6;
 		padding:0; 
 		margin:0;
 		color: #FFFFFF: 
@@ -26,10 +22,7 @@ body{
 div{
 		 text-align:center;
 		 vertical-align: center;
-		color: #FFFFFF: 
-}
-img{
-		text-align: center;
+		color: 	#708090: 
 }
 .info{
 		display: inline;	
@@ -50,25 +43,10 @@ input{
 {
 	   text-align: center;
 }
-#log{
-	font-size: 50px;
-	font-family: "Verdana";
-	color: #FFFFFF;
-}
-#product{
-	text-align:center;
-	vertical-align: center;
-	margin-left: 900px;
-	color: #FFFFFF;
-	font-size: 30px;
-}
-#totalTime{
-	color: #FFFFFF;
-}
 .button {
   display: inline-block;
   border-radius: 20px;
-  background-color: #DF0101;
+  background-color: #708090;
   border: none;
   color: #FFFFFF;
   text-align: center;
